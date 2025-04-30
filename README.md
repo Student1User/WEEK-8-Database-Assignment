@@ -1,9 +1,10 @@
-Thanks! Based on your updated inputs, here's the **final combined `README.md`** for both **Question 1** (Library Management System Database) and **Question 2** (Student Management System CRUD API using FastAPI + MySQL), merged into a single professional and well-structured document:
+
+# 🧑‍💻 📚📊 Week 8 Assignment – Power Learn Project (PLP)
 
 ---
 
 ```markdown
-# 📚📊 Week 8 Assignment – Power Learn Project (PLP)
+# 
 
 This repository contains solutions for **both questions** in the **Week 8 Assignment** of the Power Learn Project (PLP) Software Engineering track – February Cohort 7.
 
